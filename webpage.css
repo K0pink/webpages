@@ -1,0 +1,123 @@
+*{margin: 0px;}
+
+.navbar{
+    display: flex;
+    background-color: rgb(252, 250, 251);
+    padding: 0px;
+    justify-content: space-between;
+    text-align: center;
+    box-shadow: 0 0 7px rgb(207, 207, 230);
+}
+
+.navbar1{
+    display: flex;
+margin-bottom: 1px;
+padding: 1px;
+}
+.navbar2{
+    display: flex;
+margin-bottom: 1px;
+padding: 1px;
+}
+.navbar3{
+    display: flex;
+margin-bottom: 1px;
+padding: 1px;
+}
+
+/*img{width: 30px;}*/
+
+.logo {
+    margin-bottom: 11px;
+padding: 5px;
+width: 30px;
+}
+.logo img{
+    margin-top: 15px;
+    width: 100%;
+}
+
+.about{
+    margin-top: 15px;
+    margin-right: 40px;
+padding: 5px;
+}
+
+.services{
+    margin-top: 15px;
+    margin-right: 40px;
+padding: 5px;
+}
+
+.cs{
+    margin-top: 15px;
+    margin-right: 40px;
+padding: 5px;
+}
+
+.blog{
+    margin-top: 15px;
+    margin-right: 40px;
+padding: 5px;
+}
+
+.hiw{
+    margin-top: 15px;
+    margin-right: 40px;
+padding: 5px;
+}
+
+.hire{
+    margin-top: 15px;
+    margin-bottom: 1px;
+padding: 5px;
+}
+
+.contact{
+    margin-top: 15px;
+    margin-bottom: 1px;
+padding: 5px;
+}
+
+button{
+    background-color: rgb(36, 29, 143);
+color: white;
+font-weight: 1px;
+font-size: 15px;
+border: none;     
+border-radius: 10px;
+text-shadow: #6b4848;
+padding: 10px;
+}
+
+.big-box{display: flex;
+padding: 50px;
+margin-top: 70px;
+justify-content: space-around;
+}
+
+.h1{
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+.h2{
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+
+.p{
+    margin-bottom: 50px;
+    
+}
+
+.small-box2 img{width: 500px;
+padding: 20px;
+margin-bottom: 90px;
+}
+
+
+span{ 
+    color: purple;
+}
+.big-box .small-box1 .bb button{background-color: rgb(75, 92, 252);}
